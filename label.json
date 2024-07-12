@@ -1,0 +1,27 @@
+{
+    "model-name": "yolov3_416x416_ppe",
+    "num-labels": 4,
+    "labels": [
+      {
+        "name": "Worker",
+        "label": 0,
+        "display_name": "Worker"
+      },
+      {
+        "name": "Worker + Helmet",
+        "label": 1,
+        "display_name": "Worker + Helmet"
+      },
+      {
+        "name": "Worker + Vest",
+        "label": 2,
+        "display_name": "Worker + Vest"
+      },
+      {
+        "name": "Worker + Helmet + Vest",
+        "label": 3,
+        "display_name": "Worker + Helmet + Vest"
+      }
+    ]
+}
+  
